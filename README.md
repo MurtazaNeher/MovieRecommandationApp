@@ -1,2 +1,3 @@
 # MovieRecommandationApp
-Created with CodeSandbox
+
+App to recommend different genres of movies.
